@@ -13,7 +13,7 @@ Living in the hot state of Arizona, I'm the father of a wonderful little guy nam
 # Past Projects
 - [NoiseMap - The Perlin Noise Map Generator](https://github.com/GroverErin/ProceduralMapGenGame) - A close second to my above project as far as favoritism goes, this is a perlin noise map generator that has a small minigame attached to it. There are some other forms of procedural content as well, check out the readme for more info.
 - [MallSim - Unreal Engine Utility Theory AI](https://github.com/GroverErin/UnrealMallSimulation) - My first in depth attempt at familiarizing myself with Unreal Engine 4. An ambitious little project that aimed to replicate something like the Sims, though, now that I've got a bit more experience, I'll probably go back and add some polish to it soon.
-- [STEM Bingo - The Arduino Bingo Game](https://github.com/GroverErin) - This was my very first programming project, from before I was even in a programming degree. It's the project that sparked my love for programming, so it's very special to me in that respect. It's also terrible, so go easy on it. I'd love to try and recreate it again with the knowledge I have now.
+- [STEM Trivia - The Arduino Trivia Game](https://github.com/GroverErin/ArduinoLCDTrivia) - This was my very first programming project, from before I was even in a programming degree. It's the project that sparked my love for programming, so it's very special to me in that respect. It's also terrible, so go easy on it. I'd love to try and recreate it again with the knowledge I have now.
 
 # Contact Info
 If you wish to reach me, please do so through my [LinkedIn](https://www.linkedin.com/in/erin-grover/) profile. It has my other forms of contact available there as well.
