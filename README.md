@@ -12,6 +12,7 @@ Living in the hot state of Arizona, I'm the father of a wonderful little guy nam
 
 # Past Projects
 - [NoiseMap - The Perlin Noise Map Generator](https://github.com/GroverErin/ProceduralMapGenGame) - A close second to my above project as far as favoritism goes, this is a perlin noise map generator that has a small minigame attached to it. There are some other forms of procedural content as well, check out the readme for more info.
+- [Loot Table Editor - Unity 3D Data Driven Custom Editor](https://github.com/GroverErin/UnityLootTableTool) - A Unity project with the goal of creating a Loot Table Editor that allows designers to create item drop tables quickly and easily, in a way that allows changes to be pushed to a CDN and not require costly game updates through an app store.
 - [MallSim - Unreal Engine Utility Theory AI](https://github.com/GroverErin/UnrealMallSimulation) - My first in depth attempt at familiarizing myself with Unreal Engine 4. An ambitious little project that aimed to replicate something like the Sims, though, now that I've got a bit more experience, I'll probably go back and add some polish to it soon.
 - [STEM Trivia - The Arduino Trivia Game](https://github.com/GroverErin/ArduinoLCDTrivia) - This was my very first programming project, from before I was even in a programming degree. It's the project that sparked my love for programming, so it's very special to me in that respect. It's also terrible, so go easy on it. I'd love to try and recreate it again with the knowledge I have now.
 
