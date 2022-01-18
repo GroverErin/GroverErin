@@ -9,7 +9,7 @@ Living in the hot state of Arizona, I'm the father of a wonderful little guy nam
 
 # Experience
 
-During Summer of 2021 I had the awesome opportunity to work with one of my instructors and mentors, David "Rez" Graham, at his game studio [Bleach Kitty Games](https://www.bleachkitty.com/BleachKittyGamesProjects/Journey/) on a project as a Gameplay Engineer. I spent a majority of my time working with the designers to create a series of quests, but I also spent a large portion of my time refactoring the inventory system in the game to reduce bugs and provide more clarity when using the system.
+During Summer of 2021 I had the awesome opportunity to work with one of my instructors and mentors, David "Rez" Graham, at his game studio [Bleach Kitty Games](https://www.bleachkitty.com/BleachKittyGamesProjects/Journey/) on a project as a Gameplay Engineer. I spent a majority of my time working with the designers to create a series of quests, but I also spent a large portion of my time refactoring the inventory system in the game to reduce bugs and provide more clarity when using the system. Done in a custom engine, my code was written entirely in Lua during this internship.
 
 # Current Projects
 - [Exelius - The C++ Game Engine](https://github.com/GroverErin/ExeliusEngine) - A simple 2D game engine. This is my absolute favorite project. It's a 3 semester long project, currently about to begin the second semester. It's still a bit rough, but the goal is to get all the features in while I still have help from my mentors.
