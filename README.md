@@ -5,7 +5,7 @@ Bachelors of Game Programming @ Academy of Art University (AAU)
 
 # About Me
 
-Raised in the hot state of Arizona, living in Huntsville, AL. I'm the father of a wonderful little guy named Tomasi, the beautiful late Losemana, and the chubby Matiu, and husband to my wonderful wife Rosemarie. I am a massive motorsports fan, and the only other career I would pursue outside of programming is probably driving for a Formula 1 team. Since I have yet to be recognised for my driving ability, I sooth that urge by building and driving a gocart around the yard with my son. When I'm not doing that I'm either camping, catching up on my gaming backlog, or playing boardgames with my wife.
+Raised in the hot state of Arizona, living in Huntsville, AL. I'm the father of a wonderful little guy named Tomasi, the beautiful late Losemana, the chubby infant Matiu, and husband to my wonderful wife Rosemarie. I am a massive motorsports fan, and the only other career I would pursue outside of programming is probably driving for a Formula 1 team. Since I have yet to be recognised for my driving ability, I sooth that urge by building and driving a gocart around the yard with my son. When I'm not doing that I'm either camping, catching up on my gaming backlog, or playing boardgames with my wife.
 
 # Experience
 
