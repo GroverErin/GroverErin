@@ -1,5 +1,6 @@
 # Erin Grover
 Software Engineer @ Integration Innovation, Inc. (i3)
+
 Bachelors of Game Programming @ Academy of Art University (AAU)
 
 # About Me
