@@ -1,7 +1,7 @@
 # Erin Grover
-Software Engineer @ Integration Innovation, Inc. (i3)
+Software Engineer @ [Integration Innovation, Inc. (i3)](https://i3-corps.com)
 
-Bachelors of Game Programming @ Academy of Art University (AAU)
+Bachelors of Game Programming @ [Academy of Art University (AAU)](https://www.academyart.edu)
 
 # About Me
 
@@ -9,7 +9,7 @@ Raised in the hot state of Arizona, living in Huntsville, AL. I'm the father of 
 
 # Experience
 
-Currently working as a Entry Level Unity Developer at i3 games, I get the incredible opportunity to work on projects that directly support our great nations military. Our team works on many broad-ranging applications, and push the limits of all the devices and platforms we support (which isn't hard if you're familiar with military hardware! *wink*), including mobile, AR, and VR! We very frequently are pushing Unity to it's limits and finding new and creative ways to solve problems.
+Currently working as a Entry Level Unity Developer at [i3](https://i3-corps.com), I get the incredible opportunity to work on projects that directly support our great nations military. Our team works on many broad-ranging applications, and push the limits of all the devices and platforms we support (which isn't hard if you're familiar with military hardware! *wink*), including mobile, AR, and VR! We very frequently are pushing Unity to it's limits and finding new and creative ways to solve problems.
 
 During Summer of 2021 I had the awesome opportunity to work with one of my instructors and mentors, David "Rez" Graham, at his game studio [Bleach Kitty Games](https://www.bleachkitty.com/BleachKittyGamesProjects/Journey/) on a project as a Gameplay Engineer. I spent a majority of my time working with the designers to create a series of quests, but I also spent a large portion of my time refactoring the inventory system in the game to reduce bugs and provide more clarity when using the system. Done in a custom engine, my code was written entirely in Lua during this internship.
 
