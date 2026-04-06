@@ -1,12 +1,12 @@
 # Erin Grover
 Platform Engineer / AI Technical Lead @ [Tektonux](https://tektonux.com/)
 
-Previous Roles:
-Software Engineer (UE5) @ [Vigilante/Ruckus](https://vigilante.us/)
-Software Engineer (Unity) @ [Integration Innovation, Inc. (i3)](https://i3-corps.com)
-Gameplay Engineer Intern @ [Bleach Kitty Games](https://www.bleachkitty.com/BleachKittyGamesProjects/Journey/)
+## Previous Roles:
+- Software Engineer (UE5) @ [Vigilante/Ruckus](https://vigilante.us/)
+- Software Engineer (Unity) @ [Integration Innovation, Inc. (i3)](https://i3-corps.com)
+- Gameplay Engineer Intern @ [Bleach Kitty Games](https://www.bleachkitty.com/BleachKittyGamesProjects/Journey/)
 
-B.S. Computer Science @ [Academy of Art University](https://www.academyart.edu)
+**B.S. Computer Science @ [Academy of Art University](https://www.academyart.edu)**
 
 ## About Me
 
